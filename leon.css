@@ -145,7 +145,7 @@ header .links li a:hover {
 /* Start Landing */
 main .landing {
     background-color: #eee;
-    background-image: url(/images/landing-img.jpeg);
+    background-image: url(images/landing-img.jpeg);
     background-size: cover;
     width: 100%;
     height: calc(100vh - 54px);

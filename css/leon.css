@@ -5,7 +5,7 @@
     --section-bgColor: rgb(248, 248, 248);
     --section-padding: 60px;
 }
-/* Start Global Component*/
+/* Global Component */
 .special-heading {
     color: rgb(244, 244, 244);
     font-size: 120px;
@@ -27,7 +27,7 @@
         font-size: 15px;
     }
 }
-/* End Global Component*/
+
 /* Global Ruls */
 * {
     -webkit-box-sizing: border-box;
@@ -62,7 +62,7 @@ html {
         width: 1170px;
     }
 }
-/* End Global Ruls */
+
 /* Start Header */
 header {
     padding: 15px;
@@ -141,7 +141,7 @@ header .links li a {
 header .links li a:hover {
     margin-left: 10px;
 }
-/* End Header */
+
 /* Start Landing */
 main .landing {
     background-color: #eee;
@@ -171,7 +171,7 @@ p {
     font-size: 17px;
     line-height: 1.5;
 }
-/* End Landing */
+
 /* Start Features */
 .features {
     padding-top: var(--section-padding);
@@ -197,7 +197,7 @@ p {
     line-height: 1.5;
     color: #777;
 }
-/* End Features */
+
 /* Start Services */
 .services {
     padding-top: var(--section-padding);
@@ -257,7 +257,7 @@ p {
         display: none;
     }
 }
-/* End Services */
+
 /* Start Portfolio */
 .portfolio {
     background-color: var(--section-bgColor);
@@ -292,7 +292,7 @@ p {
     font-weight: 300;
     margin: 0;
 }
-/* End Portfolio */
+
 /* Start about */
 .about {
     padding-top: var(--section-padding);
@@ -367,7 +367,7 @@ p {
     width: 40%;
     display: inline-block;
 }
-/* End about */
+
 /* Start Contact */
 .contact {
     padding-top: var(--section-padding);
@@ -412,7 +412,7 @@ p {
 .contact .contact-content .social-media i {
     color: var(--secondary-color);
 }
-/* End Contact */
+
 /* Start footer */
 footer {
     background-color: var(--secondary-color);
@@ -426,4 +426,3 @@ footer span {
     color: var(--main-color);
     font-weight: bold;
 }
-/* End footer */
